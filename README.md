@@ -8,8 +8,8 @@
 </div>
  
 <div style="display: inline_block"><br>
-   <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png"/>
    <img align="center" alt="Swift" height="40" width="40" src="https://img.icons8.com/fluency/240/null/swift.png"/>
+   <img align="center" alt="C++" height="40" width="40" src="https://img.icons8.com/color/480/null/c-plus-plus-logo.png"/>
    <img align="center" alt="Flutter" height="40" width="40" src="https://img.icons8.com/fluency/144/000000/flutter.png"/>
    <img align="center" alt="Dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
 </div>

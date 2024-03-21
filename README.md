@@ -9,6 +9,7 @@
  
 <div style="display: inline_block"><br>
    <img align="center" alt="Swift" height="40" width="40" src="https://img.icons8.com/fluency/240/null/swift.png"/>
+   <img align="center" alt="CSharp" height="40" width="40" src="https://img.icons8.com/color/240/000000/c-sharp-logo-2.png"/> 
    <img align="center" alt="C++" height="40" width="40" src="https://img.icons8.com/color/480/null/c-plus-plus-logo.png"/>
    <img align="center" alt="Flutter" height="40" width="40" src="https://img.icons8.com/fluency/144/000000/flutter.png"/>
    <img align="center" alt="Dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
@@ -18,7 +19,7 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/yvesdeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contact@yvesoliveira.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:yves.oliveira@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
   ![Snake animation](https://github.com/yves-oliveira/yves-oliveira/blob/output/github-contribution-grid-snake.svg)
